@@ -1,0 +1,36 @@
+.body {
+    margin-top: 60px;
+    color: #fff;
+}
+
+.font-main{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.font-spec{
+    font-family: 'Megrim', cursive;
+}
+
+.bg-red{
+    /* background-color:  rgb(223, 60, 81); */
+    background-color:  rgb(161, 26, 44);
+}
+
+.bg-yellow{
+    background-color:  rgb(209, 160, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
